@@ -11,7 +11,7 @@
 7.types of function
     -regular function
     -arrow function
-    -fast class function
+    -fast class function 
     -higher order function
     -callback function
     -anonymous function
@@ -21,4 +21,11 @@
 10.difference between setInterval and setTimeout.
 11.What is DOME?
 12. Difference between get ElementbyID and get Elementbyclassname
-
+13. Difference between Text content, inner text and inner html 
+14. DOM traversal methods
+15. Add event listener (click ,onchange )
+16. What is execution context and call stack 
+17. What is Event loop and how it executes asynchronous codes 
+18. What is callback hell disadvantages of callback hell 
+19. Explain the life cycle of promise and how it manages asynchronous functions better than callback hell 
+20. What is promise chaining and disadvantages of promise chaining

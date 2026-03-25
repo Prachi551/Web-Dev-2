@@ -19,5 +19,5 @@ form.addEventListener("submit",(event)=>{
     const course=courseInput.value;
     console.log(name);
     output.innerText=name+" "+course;
-})
+}) 
 
